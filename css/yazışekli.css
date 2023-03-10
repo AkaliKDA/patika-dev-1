@@ -1,0 +1,11 @@
+/* seçtiğin metinleri ortalıyor */
+h1,h2,h3,ul,li,div,th,tr,img,table,thead,tbody {
+    text-align: center;
+}
+
+/* seçtiğin metinleri ortalıyor */
+h4 {
+    text-align: right;
+}
+
+
